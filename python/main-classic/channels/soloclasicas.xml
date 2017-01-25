@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>soloclasicas</id>
+	<name>SoloClasicas</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://geekpro.es/wp-content/uploads/2011/06/GuiaCineClasico1.png</thumbnail>
+	<bannermenu>http://geekpro.es/wp-content/uploads/2011/06/GuiaCineClasico1.png</bannermenu>
+	
+	<version>1</version>
+	<date>06/01/2017</date>
+
+	<categories>
+		<category>movie</category>
+	</categories>
+
+	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Incluir en busqueda global</label>
+		<default>false</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+</channel>
