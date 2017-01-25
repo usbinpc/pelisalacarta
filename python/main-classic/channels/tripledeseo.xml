@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>tripledeseo</id>
+	<name>TripleDeseo</name>
+
+	<active>true</active>
+	<adult>true</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://www.tripledeseo.com/images/logo.png</thumbnail>
+	<bannermenu>http://www.tripledeseo.com/images/logo.png</bannermenu>
+	
+	<version>1</version>
+	<date>09/01/2017</date>
+
+	<categories>
+        <category>adult</category>
+	</categories>
+
+	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Incluir en busqueda global</label>
+		<default>false</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+</channel>
