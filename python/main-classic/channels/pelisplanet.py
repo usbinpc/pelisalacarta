@@ -14,9 +14,6 @@ from core import scrapertools
 from core.item import Item
 
 
-DEBUG = config.get_setting("debug")
-
-
 def mainlist(item):
     logger.info("pelisalacarta.channels.pelisplanet mainlist")
 
