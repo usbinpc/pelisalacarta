@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #------------------------------------------------------------
 # pelisalacarta - XBMC Plugin
-# Canal para Musica en Youtube
+# Canal para busquedas Youtube
 # http://blog.tvalacarta.info/plugin-xbmc/pelisalacarta/
 #------------------------------------------------------------
 import re
@@ -16,7 +16,6 @@ from core import jsontools
 from core.item import Item
 from channels import youtube_channel
 
-DEBUG = config.get_setting("debug")
 key = youtube_channel.YOUTUBE_V3_API_KEY
 
 __ordbusq__ = int(config.get_setting('ordenbusqueda', 'youtube_search'))
