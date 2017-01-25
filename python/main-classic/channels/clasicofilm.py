@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #------------------------------------------------------------
 # pelisalacarta - XBMC Plugin
-# Canal para pelis24
+# Canal para ClasicoFilm
 # http://blog.tvalacarta.info/plugin-xbmc/pelisalacarta/
 #------------------------------------------------------------
 import re
@@ -13,9 +13,6 @@ from core import logger
 from core import scrapertools
 from core import jsontools
 from core.item import Item
-
-
-DEBUG = config.get_setting("debug")
 
 
 def mainlist(item):
