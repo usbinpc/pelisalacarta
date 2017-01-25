@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>cine-tube</id>
+	<name>CineTube</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://www.cine-tube.com/img/logo.png</thumbnail>
+	<bannermenu>http://www.cine-tube.com/img/logo.png</bannermenu>
+
+	<version>1</version>
+	<date>20/01/2017</date>
+
+	<categories>
+		<category>latino</category>
+		<category>movie</category>
+		<category>vos</category>
+	</categories>
+
+</channel>

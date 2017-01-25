@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>seriesxd</id>
+	<name>SeriesXD</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://www.seriesxd.tv/wp-content/uploads/logo-repelis.png</thumbnail>
+	<bannermenu>http://www.seriesxd.tv/wp-content/uploads/logo-repelis.png</bannermenu>
+	
+	<version>1</version>
+	<date>06/01/2017</date>
+
+	<categories>
+		<category>castellano</category>
+		<category>serie</category>
+	</categories>
+
+	<settings>
+	</settings>
+</channel>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>youtube_music</id>
+	<name>Youtube Música</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/4f/8d/b6/4f8db6134b59e1e1e0ecf4aea800cd3e.png</thumbnail>
+	<bannermenu>https://s-media-cache-ak0.pinimg.com/originals/4f/8d/b6/4f8db6134b59e1e1e0ecf4aea800cd3e.png</bannermenu>
+	
+	<version>1</version>
+	<date>11/01/2017</date>
+
+	<categories>
+		<category>music</category>
+	</categories>
+
+    <data>
+		<genero>
+			<name>Clásica</name>
+			<item>
+				<entry>Medieval</entry>
+				<search>musica+clasica+medieval</search>
+			</item>
+			<item>
+				<entry>Gregoriano</entry>
+				<search>musica+gregoriano</search>
+			</item>
+			<item>
+				<entry>Celta</entry>
+				<search>musica+celta</search>
+			</item>
+			<item>
+				<entry>Concierto</entry>
+				<search>musica+clasica+concierto</search>
+			</item>
+			<item>
+				<entry>Opera</entry>
+				<search>opera+completa</search>
+			</item>
+			<item>
+				<entry>Zarzuela</entry>
+				<search>zarzuela+completa</search>
+			</item>
+			<item>
+				<entry>Moderna</entry>
+				<search>musica+clasica+moderna</search>
+			</item>
+			<item>
+				<entry>Barroca</entry>
+				<search>musica+clasica+barroca</search>
+			</item>
+			<item>
+				<entry>Coral</entry>
+				<search>musica+clasica+coral</search>
+			</item>
+		</genero>
+		<genero>
+			<name>Bandas sonoras</name>
+			<item>
+				<entry>Bandas sonoras</entry>
+				<search>musica+banda+sonora</search>
+			</item>
+			<item>
+				<entry>Soundtrack</entry>
+				<search>music+soundtrack</search>
+			</item>
+		</genero>
+		<genero>
+			<name>Pop</name>
+			<item>
+				<entry>Pop 80'</entry>
+				<search>musica+pop+80</search>
+			</item>
+			<item>
+				<entry>Español</entry>
+				<search>musica+pop+espanol</search>
+			</item>
+			<item>
+				<entry>Baladas</entry>
+				<search>musica+pop+baladas</search>
+			</item>
+		</genero>
+	</data>
+
+</channel>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <channel>
-	<id>clasicofilm</id>
-	<name>ClasicoFilm</name>
+	<id>soloclasicas</id>
+	<name>SoloClasicas</name>
 
 	<active>true</active>
 	<adult>false</adult>
 	<language>es</language>
 
 	<fanart></fanart>
-	<thumbnail>http://1.bp.blogspot.com/-TlfU7RP2VdE/VlrgrSFHBbI/AAAAAAAAOvg/TH4l8AD3SsY/s1600-r/titulo%2Bblog%2B2.jpg</thumbnail>
-	<bannermenu>http://1.bp.blogspot.com/-TlfU7RP2VdE/VlrgrSFHBbI/AAAAAAAAOvg/TH4l8AD3SsY/s1600-r/titulo%2Bblog%2B2.jpg</bannermenu>
+	<thumbnail>http://geekpro.es/wp-content/uploads/2011/06/GuiaCineClasico1.png</thumbnail>
+	<bannermenu>http://geekpro.es/wp-content/uploads/2011/06/GuiaCineClasico1.png</bannermenu>
 	
 	<version>1</version>
-	<date>09/01/2017</date>
+	<date>06/01/2017</date>
 
 	<categories>
 		<category>movie</category>

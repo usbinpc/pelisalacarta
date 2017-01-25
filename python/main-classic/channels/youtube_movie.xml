@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>youtube_movie</id>
+	<name>Youtube Cine</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://www.freeiconspng.com/uploads/movie-icon-6.png</thumbnail>
+	<bannermenu>http://www.freeiconspng.com/uploads/movie-icon-6.png</bannermenu>
+	
+	<version>1</version>
+	<date>15/01/2017</date>
+
+	<categories>
+		<category>movie</category>
+	</categories>
+
+    <data>
+		<genero>
+			<name>Cine Clásico</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+completa+castellano</search>
+			</item>
+			<item>
+				<entry>Lista "Clásicos de cine"</entry>
+				<full_list>PLvpyPKsMHOJtD7yTZhqSMwFY4kMwzf5an</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas Clásicas"</entry>
+				<full_list>PLZF86duNZUrouFoIxDGO0gmsz9foj2Sk6</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas Clásicas Completas"</entry>
+				<full_list>PL6WGlDXt5ooj0hrfmrKKn5DqkyYeK_x5u</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de culto"</entry>
+				<full_list>PLr_dlSRJF1fq7pGHu2TzOhFf1pxiBPAHJ</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas clásicas de terror"</entry>
+				<full_list>PLQo6Q5cN_Mz1kweAJlxuxFMvedRswWHK3</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas clásicas"</entry>
+				<full_list>PL5Elc2OLiWk7QUl1ShlstSu9ye_BqA4d1</full_list>
+			</item>
+			<item>
+				<entry>Lista "Clásicos de todos los tiempos"</entry>
+				<full_list>PLQyuh-dA3JXaDPr-7sACl8V6OTmF0kI92</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de terror clásicas"</entry>
+				<full_list>PLydgo_VmNimcSXnND_xhs3z4YSOr_SbZX</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas clásicas"</entry>
+				<full_list>PL34b9BGaHxqq4ckoPrntyG9qiLiOlefKl</full_list>
+			</item>
+			<item>
+				<entry>Lista "Clásicos del oeste"</entry>
+				<full_list>PL8gpDbpq7AgNylMffUJh6mY9hkgSDetM7</full_list>
+			</item>
+			<item>
+				<entry>Lista "Cine Clásico"</entry>
+				<full_list>PLyYR6y0K7igEpOn7KiyN-CDK1LHZbRATt</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de terror clásicas"</entry>
+				<full_list>PLJLtPxjP1txEsTznKA4ExEEM_fhT7usX2</full_list>
+			</item>
+		</genero>
+		<genero>
+			<name>Cine Western</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+castellano+western</search>
+			</item>
+			<item>
+				<entry>Lista "Peliculas del viejo oeste"</entry>
+				<full_list>PLevNCjbSzBDxhMdJIj-K5MywHfytzK1x1</full_list>
+			</item>
+			<item>
+				<entry>Lista "Western historicas"</entry>
+				<full_list>PL7vMG8_v45ZyxDyR6owahB-cnfcD0sJpP</full_list>
+			</item>
+			<item>
+				<entry>Lista "Buenas del oeste"</entry>
+				<full_list>PLbazyza_HPM_Kx-OHZSlkmc6Yri_AF6uo</full_list>
+			</item>
+			<item>
+				<entry>Lista "Western en español"</entry>
+				<full_list>PLBMxeevaSx3iTFNOEZK96LxWBZnuyFIaB</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de Western"</entry>
+				<full_list>PLEfMNQH9aadIw7HaxdzW_R_bzmZ5R77Wo</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas clasicas del oeste"</entry>
+				<full_list>PL8gpDbpq7AgNylMffUJh6mY9hkgSDetM7</full_list>
+			</item>
+		</genero>
+		<genero>
+			<name>Cine Ciencia Ficción</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+castellano+ciencia+ficcion</search>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de ciencia ficción"</entry>
+				<full_list>PLNvL3duSk4yU8a3k8gXLh6MDW7PNFCWSf</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de ciencia ficción"</entry>
+				<full_list>PLLxxgrF1QnBinkXrSdqaC5FwAsjXQt7Xm</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de ciencia ficción"</entry>
+				<full_list>PLmUHPP4eUjHFzHwQtRo1NBCqCtF2k4mXE</full_list>
+			</item>
+		</genero>
+		<genero>
+			<name>Cine Estrenos</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+castellano+estrenos</search>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de estrenos 2010-2014"</entry>
+				<full_list>PL7vMG8_v45Zx0NBmzsiX13U2Zn1cRYxVT</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de estreno 2016"</entry>
+				<full_list>PLqCr_IutAFKbLVhv19wfbsDbdt3T3ETPY</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de estreno acción 2016"</entry>
+				<full_list>PLq8rgh4846yU7y6WW5dqFNguIB7W8yvCi</full_list>
+			</item>			
+		</genero>
+		<genero>
+			<name>Cine Animado</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+castellano+animadas</search>
+			</item>
+			<item>
+				<entry>Lista "Peliculas animadas"</entry>
+				<full_list>PLu090sFujZejwIJZMtcQUoE7txRx0IPnp</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas de dibujos animados"</entry>
+				<full_list>PLsU5nw54DLRSzSnNtkQz9xUv9H5HLVJgW</full_list>
+			</item>
+			<item>
+				<entry>Lista "Dibujos animados"</entry>
+				<full_list>PLACCE6438246FBCB0</full_list>
+			</item>			
+		</genero>
+		<genero>
+			<name>Cine Comedia</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+castellano+comedia</search>
+			</item>
+			<item>
+				<entry>Lista "Peliculas comedia"</entry>
+				<full_list>PL4zVVQdAIqs7p_nDEIMNNe2Ac8CRWcJEY</full_list>
+			</item>
+		</genero>
+		<genero>
+			<name>Cine Español</name>
+			<item>
+				<entry>Buscar</entry>
+				<search>pelicula+española</search>
+			</item>
+			<item>
+				<entry>Lista "Peliculas españolas"</entry>
+				<full_list>PLvPmLRT4mmxaXQFvG7b3Ock0W_7Ri3VTg</full_list>
+			</item>
+			<item>
+				<entry>Lista "Peliculas españolas"</entry>
+				<full_list>PLTRmkP4-tiXtKBSSIvO4kXvUSNgI0-GS6</full_list>
+			</item>
+			<item>
+				<entry>Lista "Cine, series y peliculas españolas"</entry>
+				<full_list>PLuR5RNBaG67dP_zdR4dQD4nzqXKAB8iYB</full_list>
+			</item>
+		</genero>
+	</data>
+
+</channel>

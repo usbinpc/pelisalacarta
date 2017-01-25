@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>youtube_search</id>
+	<name>Youtube Busquedas</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+	
+	<version>1</version>
+	<date>15/01/2017</date>
+
+	<categories>
+		<category>base</category>
+	</categories>
+
+	<settings>
+		<id>ordenbusqueda</id>
+		<type>list</type>
+		<label>Orden de busqueda</label>
+		<default>0</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+		<lvalues>Destacados</lvalues>
+		<lvalues>Fecha</lvalues>
+	</settings>
+	<settings>
+		<id>tipobusqueda</id>
+		<type>list</type>
+		<label>Tipo de busqueda</label>
+		<default>0</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+		<lvalues>Videos</lvalues>
+		<lvalues>Listas</lvalues>
+	</settings>
+	
+
+</channel>
